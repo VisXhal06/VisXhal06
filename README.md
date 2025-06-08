@@ -1,4 +1,7 @@
 <!-- README.md for GitHub Profile -->
+<p align="center">
+  <img src="https://i.pinimg.com/736x/44/c8/6d/44c86da04bb9570dc171071691312427.jpg" alt="Header Image" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Vishal Suthar</h1>
 <h3 align="center">A passionate Full-Stack Developer from India/h3>
@@ -121,11 +124,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-suthar0604&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
-
-<h3 align="center">📈 GitHub Contribution Graph</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vishal-suthar0604&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
 
 ### 🧠 Quick Fact  
 > _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
