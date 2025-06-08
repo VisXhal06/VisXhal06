@@ -103,7 +103,6 @@
 ### 🚀 Projects
 - 👾 [GTA-VI](https://github.com/Vishal-suthar0604/GTA-6-Fun.git) - GTA-VI Game Website Fun Project 
 - 🎯 [PrepRoyal](https://github.com/yourusername/preproyal) – AI-Powered Quiz App for NEET Preparation
-- 🛠️ [InventiveRhino Technologies](https://github.com/yourusername/inventiverhino-site) – Static Service Website (HTML/CSS only)
 - 🧠 [DisneyShield.AI](https://github.com/AnujPatel-28/Disney-shield.git) – Gemini-based Content Infringement Detection
 - 📈 [Real-time News Bot](https://github.com/yourusername/news-rag-bot) – Streaming RAG Chatbot using Pathway
 
@@ -122,15 +121,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-suthar0604&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-suthar0604&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Top languages used -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-suthar0604&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 <h3 align="center">📈 GitHub Contribution Graph</h3>
 <p align="center">
