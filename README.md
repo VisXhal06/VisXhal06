@@ -1,131 +1,103 @@
-<!-- README.md for GitHub Profile -->
-<p align="center">
-  <img src="https://i.pinimg.com/736x/b9/d7/b7/b9d7b78433836c6edf25a8269cded860.jpg" alt="Header Image" width="100%" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vishal Suthar | Full-Stack Developer</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background: #0d1117;
+      color: #c9d1d9;
+    }
+    header {
+      text-align: center;
+      padding: 2rem;
+      background: #161b22;
+    }
+    header img {
+      max-width: 100%;
+      border-radius: 12px;
+    }
+    h1, h2, h3 {
+      color: #58a6ff;
+    }
+    section {
+      padding: 2rem;
+    }
+    .tech-icons img,
+    .social-icons img {
+      width: 40px;
+      margin: 0.5rem;
+      transition: transform 0.3s, filter 0.3s;
+      filter: grayscale(100%);
+    }
+    .tech-icons img:hover,
+    .social-icons img:hover {
+      transform: scale(1.2);
+      filter: grayscale(0%) brightness(1.2);
+    }
+    .quote {
+      font-style: italic;
+      font-size: 1.2rem;
+      text-align: center;
+      margin-top: 2rem;
+      color: #8b949e;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #161b22;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://i.pinimg.com/736x/42/ca/16/42ca163f36f52904593bd6ee3a960c34.jpg" alt="Banner" />
+    <h1>Hey 👋, I'm Vishal Suthar</h1>
+    <h3>🚀 Full-Stack Developer | Tech Explorer | Creator from 🇮🇳</h3>
+  </header>
 
-<h1 align="center">Hi 👋, I'm Vishal Suthar</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+  <section>
+    <h2>🌐 Connect with Me</h2>
+    <div class="social-icons">
+      <a href="https://twitter.com/vsuthar0604"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" title="Follow me on Twitter" /></a>
+      <a href="https://www.linkedin.com/in/vishal-suthar-a19291231/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="Connect on LinkedIn" /></a>
+      <a href="mailto:vishalsuthar2711@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" title="Email me" /></a>
+      <a href="https://github.com/vishal-suthar0604"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub Profile" /></a>
+    </div>
+  </section>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishal-suthar0604&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-suthar0604" />
-</p>
+  <section>
+    <h2>🧰 My Tech Stack</h2>
+    <div class="tech-icons">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+    </div>
+  </section>
 
----
+  <section>
+    <h2>🚀 Featured Projects</h2>
+    <ul>
+      <li><strong>GTA-VI Fun Site:</strong> <a href="https://github.com/Vishal-suthar0604/GTA-6-Fun">Landing Page Concept</a></li>
+      <li><strong>PrepRoyal:</strong> AI-Powered Quiz App for NEET</li>
+      <li><strong>DisneyShield.AI:</strong> Gemini-Powered DMCA Bot</li>
+      <li><strong>Real-Time News Bot:</strong> Breaking Alerts using RAG</li>
+    </ul>
+  </section>
 
-### 👨‍💻 About Me
-- 💼 I’m currently working on **web-based platforms for business automation, education, and ecommerce**.
-- 🌱 I’m learning **Android, Hacking, Exploring new frameworks, AI integrations**, **real-time RAG apps**, and **developer tools**
-- 💬 Ask me about: **React, Vite, Vue, Node, Tailwind, MongoDB, Firebase**
-- 📫 How to reach me: **vishalsuthar2711@gmail.com**
-- ⚡ Fun fact: *One day, I might lose my mind 🧠 (but code will stay 🤖)*
+  <section class="quote">
+    <p>“Don’t wait for opportunity. Create it.”</p>
+  </section>
 
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/vsuthar0604" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vishal-suthar-a19291231/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:vishalsuthar2711@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/vishal-suthar0604" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
-  </a>
-</p>
-
----
-
-<h3 align="left">🧰 Tech Stack</h3>
-
-#### 🌐 Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" />
-</p>
-
-#### 💻 Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
-</p>
-
-#### ☁️ DevOps & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
-</p>
-
-#### 🗃️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
-</p>
-
-#### 📱 Mobile & Cross-platform
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" />
-</p>
-
-#### 🧠 Others
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />&nbsp;&nbsp;
-  <img src=" http://www.rust-lang.org/logos/rust-logo-blk.svg" width="40" />
-</p>
-
----
-
-### 🚀 Projects
-- 👾 [GTA-VI](https://github.com/Vishal-suthar0604/GTA-6-Fun.git) - GTA-VI Game Website Fun Project 
-- 🎯 [PrepRoyal](https://github.com/yourusername/preproyal) – AI-Powered Quiz App for NEET Preparation
-- 🧠 [DisneyShield.AI](https://github.com/AnujPatel-28/Disney-shield.git) – Gemini-based Content Infringement Detection
-- 📈 [Real-time News Bot](https://github.com/yourusername/news-rag-bot) – Streaming RAG Chatbot using Pathway
-
----
-
-<h3>📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-suthar0604&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-suthar0604&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-suthar0604&layout=compact&theme=radical" alt="top-langs" />
-</p>
-
-
-### 🧠 Quick Fact  
-> _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
-
----
+  <footer>
+    <p>✨ Powered by coffee & code ✨</p>
+  </footer>
+</body>
+</html>
