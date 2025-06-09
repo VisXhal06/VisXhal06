@@ -1,128 +1,142 @@
-<p align="center">
-  <img src="https://i.pinimg.com/736x/07/6c/a4/076ca4ab40fb5f03c83021bdea86443d.jpg" alt="Header Image" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Gauree Patel</h1>
-<h3 align="center">A Hardworking Full Stack Developer with Insight into Real-World Industry Structures</h3>
+<!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hunney1426&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://i.pinimg.com/736x/42/ca/16/42ca163f36f52904593bd6ee3a960c34.jpg" alt="Header Image" width="100%" />
 </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 Currently working on **upskilling and personal projects**
-- 🌱 Learning **new frameworks, AWS, and modern DevOps workflows**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🤝 Seeking a **passionate and growth-oriented team**
-- 💬 Ask me about **React, Vite, Vue, Node, Firebase, etc.**
-- 📫 Reach me at **gaureepatel397@gmail.com**
-- ⚡ Fun fact: _"Being a coder is also a tough job ⚡"_
-
----
-
-### 📬 Connect with Me
-
-<p align="left"> 
-  <a href="https://linkedin.com/in/gauree patel" target="blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /> 
-  </a> &nbsp;&nbsp; 
-  <a href="https://github.com/hunney1426" target="blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="30" /> 
-  </a> 
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-#### 👩‍💻 Frontend Development  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="30" height="30" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="30" height="30" />
-</p>
-
-#### ⚙️ Backend & APIs  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" />
-</p>
-
-#### 🔗 Databases  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30" />
-</p>
-
-#### ☁️ Cloud & DevOps  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30" />
-</p>
-
-#### 🔧 Other Tools  
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="30" height="30" />
-</p>
-
-#### 📱 Mobile & Cross Platform  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="30" height="30" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="30" height="30" />
-</p>
-
-#### 💻 Programming Languages  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30" />
-</p>
-
----
-
-### 🏆 GitHub Profile Trophies
+<h1 align="center">Hey 👋, I'm Vishal Suthar</h1>
+<h3 align="center">🚀 Full-Stack Developer | Tech Explorer | Creator from 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hunney1426&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://komarev.com/ghpvc/?username=vishal-suthar0604&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I’m building **web apps for automation, education, and ecommerce**
+- 📱 Exploring: **Android, AI integrations, cybersecurity, real-time RAG apps**
+- 🛠️ Tech I love: `React`, `Node.js`, `Vite`, `Tailwind`, `MongoDB`, `Firebase`
+- 💬 Open to tech chats on: `Frontend`, `Backend`, `APIs`, `Security`, `UX`
+- 📫 Reach me: **vishalsuthar2711@gmail.com**
+- ⚡ Fun Fact: *Code never sleeps – and neither does my creativity*
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/vsuthar0604" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="Twitter" title="Follow me on Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vishal-suthar-a19291231/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" title="Let's connect on LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:vishalsuthar2711@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Gmail" title="Drop me an email" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/vishal-suthar0604" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" title="Check out my repos" />
   </a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🧰 My Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hunney1426&show_icons=true&theme=radical" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hunney1426&theme=radical" alt="streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunney1426&layout=compact&theme=radical" alt="top-langs" />
+#### 🌐 Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" title="Framer Motion" />
+</p>
+
+#### 💻 Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask" />
+</p>
+
+#### ☁️ DevOps & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash" />
+</p>
+
+#### 🗃️ Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite" />
+</p>
+
+#### 📱 Mobile & Cross-platform
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" title="Swift" />
+</p>
+
+#### 🧠 Others
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" title="Rust" />
 </p>
 
 ---
 
-### 🧠 Quote of the Day  
+### 🚀 Featured Projects
+
+- 🎮 [**GTA-VI Fun Site**](https://github.com/Vishal-suthar0604/GTA-6-Fun.git) – Just for laughs, a GTA-VI-themed landing!
+- 🧠 [**PrepRoyal**](https://github.com/yourusername/preproyal) – AI-Powered Quiz App for NEET
+- 🔒 [**DisneyShield.AI**](https://github.com/AnujPatel-28/Disney-shield.git) – DMCA Tool powered by Gemini
+- 📰 [**Real-Time News Bot**](https://github.com/yourusername/news-rag-bot) – RAG App using Pathway for live news alerts
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-suthar0604&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-suthar0604&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-suthar0604&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 💡 Quote of the Day  
 > _“Don’t wait for opportunity. Create it.”
+
+---
