@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/42/ca/16/42ca163f36f52904593bd6ee3a960c34.jpg" alt="Header Image" width="100%" />
+  <img src="https://github.com/Vishal-suthar0604/Vishal-suthar0604/blob/main/Vishal's%20Developer%20Banner_simple_compose.png?raw=true" alt="Header Image" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Vishal Suthar</h1>
