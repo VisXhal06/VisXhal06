@@ -4,7 +4,7 @@
   <img src="https://github.com/Vishal-suthar0604/Vishal-suthar0604/blob/main/Vishal's%20Developer%20Banner_simple_compose.png?raw=true" alt="Header Image" width="100%" />
 </p>
 
-<h1 align="center">Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50" margin-bottom="-20" display="inline-block" > I'm Vishal Suthar</h1>
+<h1 align="center">Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50" display="inline-block" > I'm Vishal Suthar</h1>
 <h3 align="center">🚀 Full-Stack Developer | Tech Explorer | Creator from 🇮🇳</h3>
 
 <p align="center">
@@ -27,18 +27,12 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/vsuthar0604" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="Twitter" title="Follow me on Twitter" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vishal-suthar-a19291231/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" title="Let's connect on LinkedIn" />
-  </a>&nbsp;&nbsp;
+<a href="https://www.github.com/VisXhal06"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.x.com/VSuthar0604"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/vishal-suthar-a19291231/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="mailto:vishalsuthar2711@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Gmail" title="Drop me an email" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/vishal-suthar0604" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" title="Check out my repos" />
-  </a>
 </p>
 
 ---
