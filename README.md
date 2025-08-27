@@ -98,22 +98,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" title="Swift" />
 </p>
 
-#### 🏆 GitHub Achievements 🏆
-# 🏅 Displaying Achievements 🏅
-<br>
-
-# 📃 Achievement List 📃
-<br>
-
-| Badge | Name | How to get | Needed amount | 
-| :-: | :-: | :-: | :-: |
-| ![Starstruck](/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png)                 | Starstruck         | Created a repository that has many stars | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="60px"></td>   <td><img src="/Media/Badges/Star-Struck/PNG/StarStruck_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Star-Struck/PNG/StarStruck_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Star-Struck/PNG/StarStruck_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">16</td>  <td align="center">128</td>  <td align="center">512</td>  <td align="center">4096</td>  </tr>   </tbody>  </table>      |
-| ![Quickdraw](/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png)                 | Quickdraw        | Gitty up!<br>(closed an issue / pull request within 5 minutes of opening) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
-| ![Pair Extraordinaire](/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png)     | Pair Extraordinaire  | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) commits on merged pull request | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" width="60px"></td>   <td><img src="/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">1</td>  <td align="center">10</td>  <td align="center">24</td>  <td align="center">48</td>  </tr>   </tbody>  </table>      |
-| ![Pull Shark](/Media/Badges/Pull-Shark/PNG/PullShark.png)     | Pull Shark  | Opened a pull request that has been merged | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Pull-Shark/PNG/PullShark.png" width="60px"></td>   <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">2</td>  <td align="center">16</td>  <td align="center">128</td>  <td align="center">1024</td>  </tr>   </tbody>  </table>      |
-| ![YOLO](/Media/Badges/YOLO/PNG/YOLO_Badge.png)                 | YOLO        | Merged a pull request without a review | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
-
-<br>
 
 #### 🧠 Others
 
