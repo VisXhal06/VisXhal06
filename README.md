@@ -6,5 +6,5 @@
 
 
 <h1 align = "center">Sup! I'm Vishal</h1>
-<i align = "center">You're the one who knows machines with code</i>
+<p>My Thought : </p><i align = "center">You're the one who knows machines with code</i>
 
