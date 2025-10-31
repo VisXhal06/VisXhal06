@@ -5,7 +5,6 @@
 </p>
 
 
-<center>
-<h1>Sup! I'm Vishal</h1>
-<i>You're the one who knows machines with code</i>
-</center>
+<h1 align = "center">Sup! I'm Vishal</h1>
+<i align = "center">You're the one who knows machines with code</i>
+
