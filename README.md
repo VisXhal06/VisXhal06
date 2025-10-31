@@ -5,6 +5,6 @@
 </p>
 
 
-<h1 align = "center">Sup! I'm Vishal</h1>
+<h1 align = "center" href = "https://github.com/VisXhal06">Sup! I'm Vishal</h1>
 <i text-align = "center">My Thought - You're the one who knows machines with code</i>
 
