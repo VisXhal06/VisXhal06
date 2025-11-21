@@ -85,6 +85,6 @@
   </a>
 
   <a href="https://leetcode.com/u/kIPBu1kupR" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" height="40" width="40" alt="leetcode" style="padding: 5px;"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-</div>
+  </div>
