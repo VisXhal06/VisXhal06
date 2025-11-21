@@ -1,6 +1,12 @@
+<h1 align="center">Sup! I'm Vishal</h1>
+
+<p align="center">
+  <i>My Thought - You're the one who knows machines with code</i>
+</p>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=05240A&background=00000000&center=true&vCenter=true&width=500&lines=Sup! I'm Vishal;Stack:+Python+|+Go+|+Supabase+|+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=500&lines=System.init(VisXhal06);Stack:+Python+|+Go+|+Supabase+|+Next.js;IDE:+Cursor+|+VS+Code;Status:+Building+Gen-AI+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
