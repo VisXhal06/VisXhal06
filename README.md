@@ -60,7 +60,11 @@
 
 <div align="center">
   <h3>🐍 Contribution Interaction</h3>
-  <img src="https://github.com/VisXhal06/VisXhal06/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VisXhal06/VisXhal06/raw/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/VisXhal06/VisXhal06/raw/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/VisXhal06/VisXhal06/raw/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
