@@ -84,6 +84,8 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" alt="gmail"/>
   </a>
 
+  <br/>
+
   <a href="https://leetcode.com/u/kIPBu1kupR" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
