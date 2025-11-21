@@ -59,7 +59,7 @@
 <br/>
 
 <div align="center">
-  <h3>🐍 Contribution Interaction</h3>
+  <h3>Contribution Interaction</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VisXhal06/VisXhal06/raw/output/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/VisXhal06/VisXhal06/raw/output/dist/github-contribution-grid-snake.svg">
@@ -70,7 +70,21 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/vishal-suthar-a19291231" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/VSuthar0604" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://leetcode.com/u/kIPBu1kupR" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <h3>Connect With Me</h3>
+  
+  <a href="https://linkedin.com/in/vishal-suthar-a19291231" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://x.com/VSuthar0604" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+
+  <a href="mailto:vishalsuthar2711@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://leetcode.com/u/kIPBu1kupR" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </div>
