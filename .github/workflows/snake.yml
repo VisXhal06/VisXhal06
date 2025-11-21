@@ -1,14 +1,9 @@
 name: Generate Snake
 
 on:
-  # run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *" 
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the master branch
+    - cron: "0 */12 * * *" # Run every 12 hours
+  workflow_dispatch:       # Allow manual run
   push:
     branches:
     - master
@@ -22,8 +17,12 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Step 1: Generate the snake
-      - name: generate github-contribution-grid-snake.svg
+      # Step 1: Checkout the repository
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Step 2: Generate the snake files
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -32,12 +31,15 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      # Step 2: Push to the output branch (UPDATED TO v4)
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/gh-action-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+
+      # Step 3: Push to "output" branch using native git commands (NO EXTERNAL ACTIONS)
+      - name: Push to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b output
+          git add dist
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push -f origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
