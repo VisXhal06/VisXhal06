@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=500&lines=Sup!+I'm+VisXhal;Stack:+Python+|+Go+|+Supabase+|+Next.js;IDE:+Cursor+|+VS+Code;Status:+ Building+Gen-AI+Solutions" alt="Typing SVG" />
-  </a>
+  <img src="https://github.com/Vishal-suthar0604/Vishal-suthar0604/raw/main/Vishal's%20Developer%20Banner_simple_compose.png?raw=true" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(32, 194, 14, 0.2);"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github.com/Vishal-suthar0604/Vishal-suthar0604/raw/main/Vishal's%20Developer%20Banner_simple_compose.png?raw=true" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(32, 194, 14, 0.2);"/>
+ <h1 align = "center" href = "https://github.com/VisXhal06">Sup! I'm Vishal</h1>
 </div>
 
 <br/>
