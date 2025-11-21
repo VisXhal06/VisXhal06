@@ -70,21 +70,21 @@
 <br/>
 
 <div align="center">
-  <h3>Connect With Me</h3>
+  <h3>🌐 Connect With Me</h3>
   
   <a href="https://linkedin.com/in/vishal-suthar-a19291231" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" alt="linkedin"/>
   </a>
 
   <a href="https://x.com/VSuthar0604" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="50" alt="twitter"/>
   </a>
 
-  <a href="mailto:vishalsuthar2711@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:vishalsuthar2711@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" alt="gmail"/>
   </a>
 
   <a href="https://leetcode.com/u/kIPBu1kupR" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" height="40" width="40" alt="leetcode" style="padding: 5px;"/>
   </a>
 </div>
