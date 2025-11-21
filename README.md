@@ -1,17 +1,27 @@
-<h1 align="center">Sup! I'm Vishal</h1>
-
-<p align="center">
-  <i>My Thought - You're the one who knows machines with code</i>
-</p>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=500&lines=System.init(VisXhal06);Stack:+Python+|+Go+|+Supabase+|+Next.js;IDE:+Cursor+|+VS+Code;Status:+Building+Gen-AI+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=Sup! I'm Vishal" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://github.com/Vishal-suthar0604/Vishal-suthar0604/raw/main/Vishal's%20Developer%20Banner_simple_compose.png?raw=true" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(32, 194, 14, 0.2);"/>
+</div>
+
+<br/>
+
+<p align="center">
+  <i>My Thought - You're the one who knows machines with code</i>
+</p>
+
+<br/>
+
+<div align="center">
+  <h3>🚀 About Me</h3>
+  <p>
+    I'm a <b>Full-Stack Developer</b> passionate about building scalable systems and intuitive UIs. <br/>
+    Currently building <b>Course Selling Platforms</b> & <b>Real-time Trackers</b>.
+  </p>
 </div>
 
 <br/>
