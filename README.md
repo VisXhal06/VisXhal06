@@ -51,7 +51,9 @@
     </tr>
   </table>
   
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VisXhal06&theme=highcontrast" alt="GitHub Streak" /></a>
+  <a href="https://streak-stats.demolab.com?user=VisXhal06&theme=highcontrast">
+  <img src="https://streak-stats.demolab.com?user=VisXhal06&theme=highcontrast" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
