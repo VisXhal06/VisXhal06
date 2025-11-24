@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
- <h1 align = "center" href = "https://github.com/VisXhal06">Sup! I'm Vishal</h1>
+ <h1 align = "center" href = "https://github.com/Vishal-suthar0604">Sup! I'm Vishal</h1>
 </div>
 
 <br/>
@@ -40,19 +40,19 @@
     <tr>
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=VisXhal06&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9" height="180px" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Vishal-suthar0604&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9" height="180px" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisXhal06&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9" height="180px" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-suthar0604&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9" height="180px" />
         </a>
       </td>
     </tr>
   </table>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://streak-stats.demolab.com?user=VisXhal06&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Vishal-suthar0604&theme=highcontrast" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -61,9 +61,9 @@
 <div align="center">
   <h3>Contribution Interaction</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VisXhal06/VisXhal06/raw/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/VisXhal06/VisXhal06/raw/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/VisXhal06/VisXhal06/raw/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vishal-suthar0604/Vishal-suthar0604/raw/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vishal-suthar0604/Vishal-suthar0604/raw/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Vishal-suthar0604/Vishal-suthar0604/raw/output/dist/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -89,4 +89,4 @@
   <a href="https://leetcode.com/u/kIPBu1kupR" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  </div>
+</div>
