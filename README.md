@@ -51,9 +51,7 @@
     </tr>
   </table>
   
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisXhal06&theme=react&hide_border=true&background=0D1117&stroke=0000&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" />
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VisXhal06&theme=highcontrast" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
