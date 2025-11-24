@@ -56,7 +56,7 @@
 
 <div align = "center" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://streak-stats.demolab.com?user=VisXhal06&theme=highcontrast" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?username=VisXhal06&theme=highcontrast" alt="GitHub Streak" />
   </a>
 </div>
 
