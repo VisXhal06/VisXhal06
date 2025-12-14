@@ -19,7 +19,7 @@
 <div align="center">
   <h3>🚀 About Me</h3>
   <p>
-    I'm a <b>Full-Stack Developer</b> passionate about building scalable systems and intuitive UIs. <br/>.
+    I'm a <b>Full-Stack Developer</b> passionate about building scalable systems and intuitive UIs. <br/>
   </p>
 </div>
 
