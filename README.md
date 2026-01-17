@@ -23,7 +23,7 @@ I'm a **Full-Stack Developer** & **GenAI Specialist** with a growing focus on **
 <div align="center">
   <h3>⚡ Tech Arsenal & AI Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,go,bun,react,nextjs,supabase,firebase,nodejs,express,fastapi,mongodb,postgres,pytorch,tensorflow,docker,git,linux,vscode,tailwind,kali,wireshark,nginx,aws,cloudflare,kubernetes,redhat&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,go,bun,react,nextjs,supabase,firebase,nodejs,express,fastapi,mongodb,postgres,pytorch,tensorflow,docker,git,linux,vscode,tailwind,kali,wireshark,nginx,aws,cloudflare,kubernetes,redhat&theme=dark&perline=20" />
   </a>
 </div>
 
