@@ -15,23 +15,23 @@
 <br/>
 
 <div align="center">
-  ### 🚀 About Me
+  ## 🚀 About Me
   I'm a **Full-Stack Developer** & **GenAI Enthusiast** passionate about building scalable systems and intuitive UIs.
 </div>
 
 <br/>
 
 <div align="center">
-  ### ⚡ Tech Arsenal & AI Stack
+  ## ⚡ Tech Arsenal & AI Stack
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,go,bun,react,nextjs,supabase,firebase,nodejs,express,fastapi,mongodb,postgres,pytorch,tensorflow,docker,git,linux,vscode,tailwind&theme=dark&perline=11" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,go,bun,react,nextjs,supabase,firebase,nodejs,express,fastapi,mongodb,postgres,pytorch,tensorflow,docker,git,linux,vscode&theme=dark&perline=11" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  ### 📊 GitHub Metrics
+  ## 📊 GitHub Metrics
   <table>
     <tr>
       <td align="center">
@@ -51,7 +51,7 @@
 <br/>
 
 <div align="center">
-  ### 🐍 Contribution Interaction
+  ## 🐍 Contribution Interaction
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VisXhal06/VisXhal06/raw/output/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/VisXhal06/VisXhal06/raw/output/dist/github-contribution-grid-snake.svg">
@@ -62,7 +62,7 @@
 <br/>
 
 <div align="center">
-  ### 🌐 Connect With Me
+  ## 🌐 Connect With Me
   
   <a href="https://linkedin.com/in/vishal-suthar-a19291231" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="linkedin"/>
