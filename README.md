@@ -12,11 +12,11 @@
 <hr />
 
 ### 🚀 About Me
-I'm a **Full-Stack Developer** and **GenAI Enthusiast** focused on building high-performance scalable systems and intuitive user interfaces. I bridge the gap between complex backend logic and seamless frontend experiences.
+I'm a **Full-Stack Developer** & **GenAI Specialist** with a growing focus on **Cybersecurity**. I build scalable, AI-driven systems with a "security-first" mindset.
 
-- 🔭 **Currently working on:** Advanced GenAI integrations and scalable Full-Stack architectures.
-- ⚡ **Tech Philosophy:** Code should be as clean as the UI is intuitive.
-- 🧪 **Interest:** Exploring the intersection of LLMs and web performance.
+- 🔭 **Currently working on:** Hardening API security for GenAI applications.
+- 🛡️ **Security Focus:** Penetration testing and secure SDLC.
+- ⚡ **Tech Philosophy:** Scalability is nothing without security.
 
 <br/>
 
@@ -24,6 +24,11 @@ I'm a **Full-Stack Developer** and **GenAI Enthusiast** focused on building high
   <h3>⚡ Tech Arsenal & AI Stack</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,go,bun,react,nextjs,supabase,firebase,nodejs,express,fastapi,mongodb,postgres,pytorch,tensorflow,docker,git,linux,vscode,tailwind&theme=dark&perline=10" />
+  </a>
+  <br/>
+  <h3>🛡️ Security & 🌐 Server Infrastructure</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,wireshark,metasploit,nginx,aws,cloudflare,workers,kubernetes,redhat,debian&theme=dark&perline=10" />
   </a>
 </div>
 
