@@ -73,9 +73,3 @@ I'm a **Full-Stack Developer** & **GenAI Specialist** with a growing focus on **
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=20C20E&height=100&section=footer" width="100%"/>
-</div>
