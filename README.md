@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <h3>⚡ Stack</h3>
+  <h3>Stack</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,cpp,html,css,react,nextjs,redux,tailwind,materialui,nodejs,express,django,dotnet,graphql,postgres,mysql,mongodb,firebase,supabase,redis,prisma,sqlite,docker,kubernetes,aws,cloudflare,vercel,git,github,linux,vscode,postman,jest,npm,figma&perline=13&theme=dark" alt="Tech stack" style="max-width:100%;height:auto;" />
   </a>
@@ -45,7 +45,7 @@
 <br/>
 
 <div align="center">
-  <h3>📊 GitHub</h3>
+  <h3>GitHub</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=VisXhal06&show_icons=true&theme=tokyonight&hide_border=true&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&bg_color=0D1117&hide=issues" height="180px" alt="GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisXhal06&layout=compact&theme=tokyonight&hide_border=true&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&bg_color=0D1117" height="180px" alt="Top languages" />
@@ -54,7 +54,7 @@
 <br/>
 
 <div align="center">
-  <h3>🐍 Contribution Graph</h3>
+  <h3>Contribution Graph</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VisXhal06/VisXhal06/raw/output/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/VisXhal06/VisXhal06/raw/output/dist/github-contribution-grid-snake.svg">
@@ -65,7 +65,7 @@
 <br/>
 
 <div align="center">
-  <h3>📬 Connect</h3>
+  <h3>Connect</h3>
   <a href="https://visxhal.qzz.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-visxhal.qzz.io-20C20E?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
